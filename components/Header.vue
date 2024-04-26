@@ -1,5 +1,5 @@
 <template>
-  <h1 class="header">todolist</h1>
+  <h1 class="header">Nuxtテスト</h1>
 </template>
 <style>
 .header {
