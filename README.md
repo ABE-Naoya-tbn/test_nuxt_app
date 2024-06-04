@@ -69,6 +69,9 @@ pnpm run preview
 yarn preview
 
 # bun
+
+Test:
+ﾃｽﾄ
 bun run preview
 ```
 
